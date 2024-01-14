@@ -1,3 +1,2 @@
-declare const Bool: {};
-export default Bool;
+export {};
 //# sourceMappingURL=index.d.ts.map
