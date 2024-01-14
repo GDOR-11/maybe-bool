@@ -1,6 +1,6 @@
 {
     "name": "maybe-bool",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "A library that adds more booleans to javascript, inspired by the newly added maybe keyword in C#",
     "types": [
         "./lib/cjs/types/index.d.ts"
